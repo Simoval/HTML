@@ -1,0 +1,35 @@
+body{
+	background: #F2F2F2;
+}
+
+h1{
+	background:purple;
+	color:#FFF;
+	text-shadow: 0px 1px 2px rgba(256,256,256,0.7);
+	border-radius: 3px;
+	margin: 20px;
+	padding: 5px 10px;
+	font-size: 12px;
+	float: left;
+}
+
+section#content{
+	color:red;
+	font-weight: bold;
+	background: white;
+	text-align: center;
+}
+
+ul.topNav{
+	background: url(http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2014/05/003+background+pattern+designs.jpg);
+	list-style: none;
+}
+
+ul.topNav li{
+	display: inline-block;
+}
+
+ul.topNav li a{
+	text-decoration: none;
+	padding: 20px
+}
